@@ -3,9 +3,6 @@ import { Link } from "react-router-dom";
 import { Stack } from "@mui/material";
 import Logo from "../assets/images/gymLogo.png";
 
-// The Stack component manages layout of immediate children along the vertical or horizontal axis with optional spacing and/or dividers between each child.
-// When we need items in horixontal or vertical allignment we use Stack of material UI
-
 function Navbar() {
   return (
     <>

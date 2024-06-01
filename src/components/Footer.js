@@ -20,7 +20,7 @@ const Footer = () => (
       textAlign="center"
       pb="40px"
     >
-      Copyright @MyFitnessGym2022
+      Copyright @FitnessEraGym2024
     </Typography>
   </Box>
 );
